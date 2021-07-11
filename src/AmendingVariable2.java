@@ -14,7 +14,7 @@ public class AmendingVariable2 {
         float yearFiveSalary = yearFourSalary + (yearFourSalary * increment);
         System.out.println("Fifth year Salary is: " + yearFiveSalary);
 
-        System.out.print("How much is your salary?");
+        System.out.print("How much is your current salary?");
         num1 = keyboard.nextInt();
         keyboard.nextLine();
 
